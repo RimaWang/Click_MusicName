@@ -127,7 +127,7 @@ body {
 /* grid */
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto; /* 열 추가 하고 싶으면 auto 추가하기*/
+  grid-template-columns: auto auto auto auto auto; /* 열 추가 하고 싶으면 auto 추가하기*/
   padding: 10px;
 }
 .grid-item {
